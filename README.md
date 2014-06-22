@@ -1,4 +1,6 @@
-# AngularJS-Learning-Notes
+[![logo](imgs/logo.jpg)](https://github.com/checkcheckzz/AngularJS-Learning-Notes)
+
+> AngularJS-Learning-Notes
 
 *此教程由邹业盛原创，本项目仅为gitbook在线版本。 本文的内容是在 1.0.x 版本之下完成的。*
 
