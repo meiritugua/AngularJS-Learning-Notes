@@ -1,3 +1,5 @@
+> 本开源书 forked from [AngularJS 学习笔记](https://github.com/checkcheckzz/AngularJS-Learning-Notes)，作者为 [checkcheckzz](https://github.com/checkcheckzz)，欢迎大家 star 原作者的 [repo](https://github.com/checkcheckzz/AngularJS-Learning-Notes)，以便获得最新更新，谢谢！
+
 [![logo](imgs/logo.jpg)](https://github.com/checkcheckzz/AngularJS-Learning-Notes)
 
 > AngularJS-Learning-Notes
